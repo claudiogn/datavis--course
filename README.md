@@ -25,4 +25,7 @@
 
 ## Aula do dia 03/10/2018
 [chicago.html](d3_leaf/chicago.html)<br>
+
+## Aula do dia 10/10/2018
+[songs.html](d3_networks_trees/songs.html)<br>
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
